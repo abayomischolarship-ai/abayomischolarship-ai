@@ -18,8 +18,8 @@ With a strong background in **DevOps**, **cloud computing**, and **machine learn
 ---
 
 ### ⚙️ Current Projects
-- 🛰 **[NetworkAware-AgentPy](https://github.com/abayomi-robert/NetworkAware-AgentPy)** — Python framework for simulating network-aware, resilient multi-agent systems under communication constraints.  
-- 🔗 **[ML-Driven IoT Simulation](https://github.com/abayomi-robert/ML-Driven-IoT-Simulation)** — Machine learning–driven edge computing models for adaptive resource allocation and latency optimization.  
+- 🛰 **[NetworkAware-AgentPy](https://github.com/yomex96/NetworkAware-AgentPy)** — Python framework for simulating network-aware, resilient multi-agent systems under communication constraints.  
+- 🔗 **[ML-Driven IoT Simulation](https://github.com/yomex96/5G-Network-Slicing)** — Machine learning–driven edge computing models for adaptive resource allocation and latency optimization.  
 - ☁️ **DevOps-Autonomy-Lab** — Infrastructure automation experiments using Terraform, Docker, and AWS for deploying distributed simulation pipelines.  
 
 ---
@@ -54,7 +54,7 @@ With a strong background in **DevOps**, **cloud computing**, and **machine learn
 ### 🌐 Let's Connect
 📫 Email: [abayomirobertonawole@gmail.com](mailto:abayomirobertonawole@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/abayomi-robert-onawole/)  
-💻 [GitHub (Research Profile)](https://github.com/abayomi-robert)  
+💻 [GitHub (Research Profile)](https://github.com/yomex96/yomex96)  
 
 ---
 
