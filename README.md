@@ -3,9 +3,9 @@
 **Ph.D. Applicant | Autonomous & Distributed Intelligent Systems**
 
 I design and study intelligent systems that make **coordinated decisions under uncertainty and network constraints**.
-My research focuses on **multi-agent coordination, distributed optimization, and trustworthy AI for large-scale infrastructures**, with particular attention to reliability, transparency, and reproducibility.
+My research focuses on multi-agent coordination, distributed optimization, and trustworthy AI for large-scale infrastructures, with particular attention to reliability, transparency, and reproducibility.
 
-I combine experience in **embedded systems, edge/IoT simulation, and ML-driven decision algorithms** with **DevOps tooling** to build **scalable, reproducible research environments**.
+I combine experience in embedded systems, edge/IoT simulation, and ML-driven decision algorithms with DevOps tooling to build scalable, reproducible research environments.
 
 ---
 
