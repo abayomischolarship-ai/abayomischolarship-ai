@@ -34,9 +34,7 @@ Adaptive workload allocation using ML models to balance **latency and energy eff
 * **Focus:** System-level modeling, performance trade-off analysis.
 * **Outcome:** Optimized edge resource scheduling under realistic network loads.
 
-**☁️ [DevOps-Autonomy-Lab](https://github.com/yomex96/NetworkAware-AgentPy)**
-
-Reproducible research pipelines using **Terraform, Docker, and AWS** for large-scale simulations.
+**☁️ [DevOps-Autonomy-Lab](https://github.com/yomex96/NetworkAware-AgentPy)** Reproducible research pipelines using **Terraform, Docker, and AWS** for large-scale simulations for MLOP Project.
 
 * **Purpose:** Enables scalable experimentation and fair model comparison.
 
