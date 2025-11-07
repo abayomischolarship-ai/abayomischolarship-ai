@@ -64,5 +64,4 @@ Reproducible research pipelines using **Terraform, Docker, and AWS** for large-s
 💻 [GitHub (Research Profile)](https://github.com/yomex96/yomex96)  
 
 ---
-
-> “Engineering intelligence is not just about building autonomous systems — it’s about ensuring they remain transparent, resilient, and aligned with human values.”
+ “Engineering intelligence is not just about building autonomous systems — it’s about ensuring they remain transparent, resilient, and aligned with human values.”
