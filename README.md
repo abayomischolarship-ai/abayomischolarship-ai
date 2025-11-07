@@ -1,7 +1,3 @@
-Perfect! Here’s a **polished, admissions-ready showcase version** of your profile that integrates your introduction, research projects, GitHub links, and highlights your skills and impact. You can use this in your CV, portfolio, or even as a README-style introduction for your GitHub.
-
----
-
 ## 👋 Hi, I'm Abayomi Robert Onawole
 
 **Ph.D. Applicant | Autonomous & Distributed Intelligent Systems**
