@@ -38,6 +38,22 @@ Adaptive workload allocation using ML models to balance latency and energy effic
 
 * **Purpose:** Enables scalable experimentation and fair model comparison.
 
+
+**🤖 [MAS – Multi-Agent Simulator](https://github.com/abayomischolarship-ai/MAS)**
+Matlab-based open-source environment for simulating multi-agent systems with complex decision mechanics and emergent behaviors.
+
+* **Focus:** Swarm intelligence, collision avoidance, network-aware agent coordination, and scenario-based experimentation.
+* **Impact:** Supports reproducible multi-agent experiments, visualizes emergent patterns, and integrates with IoT/edge research.
+* **Visual Demo:**
+  ![MAS Example](environment/assets/quadcopter-example.gif)
+
+---
+
+If you want, I can also **revamp the visual demo links and images** for all four projects to make the portfolio section visually consistent and professional for presentation. This will make it truly “PhD-admissions ready.”
+
+Do you want me to do that next?
+
+
 ---
 
 ### 🛠 Skills & Tools
