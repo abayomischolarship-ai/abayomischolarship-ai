@@ -56,6 +56,56 @@ Adaptive workload allocation using ML models to balance latency and energy effic
 * **President**, National Institute of Electrical & Electronics Engineering Students (NIEEES)
 * **GRE:** 164 Quant | 161 Verbal
 
+## 🤝 Contributing
+
+Contributions are welcome and encouraged! This project is intended to be research-reproducible and collaborative.
+
+How to Contribute:
+
+```bash 
+Fork the repository
+
+
+Create a feature branch:
+
+git checkout -b feature/awesome-feature
+
+
+Commit your changes:
+
+git commit -m "Add new resource allocation policy"
+
+
+Push your branch:
+
+git push origin feature/awesome-feature
+
+
+Open a Pull Request
+```
+
+**Contribution Opportunities:**
+
+Add new multi-agent policies or slice allocation strategies
+
+Include additional performance metrics or visualizations
+
+Improve documentation or notebooks
+
+Optimize simulation performance or scalability
+
+By contributing, you help advance reproducible research in network-aware multi-agent systems and 5G slicing.
+
+## 📊 Research Metrics Highlighted
+
+Communication Success Rate (NetworkAware-AgentPy)
+
+Coordination Efficiency (NetworkAware-AgentPy)
+
+Resilience Under Failure (NetworkAware-AgentPy)
+
+Latency, Throughput, and Resource Utilization (5G Network Slicing)
+
 
 ### 🌐 Let's Contact
 📫 Email: [abayomirobertonawole@gmail.com](mailto:abayomirobertonawole@gmail.com)  
