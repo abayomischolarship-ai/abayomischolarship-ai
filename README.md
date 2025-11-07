@@ -60,8 +60,9 @@ Adaptive workload allocation using ML models to balance **latency and energy eff
 ### 🌐 Let's Contact
 📫 Email: [abayomirobertonawole@gmail.com](mailto:abayomirobertonawole@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/abayomi-robert-onawole/)  
-💻 [GitHub (Research Profile)](https://github.com/yomex96/yomex96) 
-☁️ [GitHub (Profile)](https://github.com/abayomischolarship-ai/abayomischolarship-ai)
+💻 [GitHub (Research Profile))](https://github.com/abayomischolarship-ai/abayomischolarship-ai/)   
+☁️ [GitHub (Profile)](https://github.com/yomex96/yomex96) 
+
 
 ---
  “Engineering intelligence is not just about building autonomous systems — it’s about ensuring they remain transparent, resilient, and aligned with human values.”
