@@ -1,53 +1,66 @@
+Perfect! Here’s a **polished, admissions-ready showcase version** of your profile that integrates your introduction, research projects, GitHub links, and highlights your skills and impact. You can use this in your CV, portfolio, or even as a README-style introduction for your GitHub.
+
+---
+
 ## 👋 Hi, I'm Abayomi Robert Onawole
-Ph.D. Applicant in Autonomous & Distributed Intelligent Systems
 
-I design and study intelligent systems that make coordinated decisions in uncertain, network-constrained environments. 
-My research focuses on **multi-agent coordination, distributed optimization, and trustworthy AI for large-scale 
-infrastructures**, especially where reliability and transparency are critical.
+**Ph.D. Applicant | Autonomous & Distributed Intelligent Systems**
 
-I combine experience in embedded systems, edge/IoT simulation, and ML-driven decision algorithms with 
-DevOps tooling to build **scalable, reproducible research environments**.
+I design and study intelligent systems that make **coordinated decisions under uncertainty and network constraints**.
+My research focuses on **multi-agent coordination, distributed optimization, and trustworthy AI for large-scale infrastructures**, with particular attention to reliability, transparency, and reproducibility.
+
+I combine experience in **embedded systems, edge/IoT simulation, and ML-driven decision algorithms** with **DevOps tooling** to build **scalable, reproducible research environments**.
 
 ---
 
 ### 🧠 Research Interests
-- Multi-Agent Systems & Network-Aware Coordination
-- Distributed Optimization & Federated Learning
-- Edge Computing & IoT Simulation Architectures
-- Trustworthy, Interpretable, and Human-Centered AI
+
+* Multi-Agent Systems & **Network-Aware Coordination**
+* Distributed Optimization & Federated Learning
+* Edge Computing & IoT Simulation Architectures
+* Trustworthy, Interpretable, and Human-Centered AI
 
 ---
 
 ### 🔬 Selected Research Projects
-**🛰 NetworkAware-AgentPy**  
-Python framework for simulating **resilient multi-agent systems** under latency, packet loss, and topology constraints.  
-*Focus:* coordination robustness, emergent behavior, network-aware policy evaluation.
 
-**🔗 ML-Driven IoT Edge Resource Allocation**  
-Adaptive workload allocation using ML models to balance latency and energy efficiency in edge networks.  
-*Focus:* system-level modeling, performance trade-off analysis.
+**🛰 [NetworkAware-AgentPy](https://github.com/yomex96/NetworkAware-AgentPy)**
+Python framework for simulating **resilient multi-agent systems** under **latency, packet loss, and network topology constraints**.
 
-**☁️ DevOps-Autonomy-Lab**  
-Reproducible research pipelines using Terraform, Docker, and AWS for large-scale simulation experiments.  
-*Purpose:* scalable experimentation and fair model comparison.
+* **Focus:** Coordination robustness, emergent behavior, and network-aware policy evaluation.
+* **Impact:** Demonstrates ability to design **reproducible experiments** and analyze **realistic distributed systems**.
+* **Visual Demo:**
+  ![Network Topology Example](docs/network_topology.png)
+
+**🔗 ML-Driven IoT Edge Resource Allocation**
+Adaptive workload allocation using ML models to balance **latency and energy efficiency** in edge networks.
+
+* **Focus:** System-level modeling, performance trade-off analysis.
+* **Outcome:** Optimized edge resource scheduling under realistic network loads.
+
+**☁️ DevOps-Autonomy-Lab**
+Reproducible research pipelines using **Terraform, Docker, and AWS** for large-scale simulations.
+
+* **Purpose:** Enables scalable experimentation and fair model comparison.
 
 ---
 
 ### 🛠 Skills & Tools
-**Programming:** Python, MATLAB, C/C++  
-**Distributed / Simulation:** NS-3, NetworkX, SimPy  
-**Machine Learning:** PyTorch, Scikit-Learn  
-**DevOps for Research:** Docker, Terraform, Kubernetes, AWS, CI/CD  
+
+**Programming:** Python, MATLAB, C/C++
+**Distributed / Simulation:** NS-3, NetworkX, SimPy
+**Machine Learning:** PyTorch, Scikit-Learn
+**DevOps for Research:** Docker, Terraform, Kubernetes, AWS, CI/CD
 **Other:** Pandas, Plotly, SQL
 
 ---
 
 ### 🎓 Education & Leadership
-- B.Eng. Electrical & Electronics Engineering — FUTA
-- President — National Institute of Electrical & Electronics Engineering Students (NIEEES)
-- GRE: 164 Quant | 161 Verbal
 
----
+* **B.Eng. Electrical & Electronics Engineering** — FUTA
+* **President**, National Institute of Electrical & Electronics Engineering Students (NIEEES)
+* **GRE:** 164 Quant | 161 Verbal
+
 
 ### 🌐 Let's Contact
 📫 Email: [abayomirobertonawole@gmail.com](mailto:abayomirobertonawole@gmail.com)  
