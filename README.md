@@ -2,7 +2,7 @@
 
 **Ph.D. Applicant | Autonomous & Distributed Intelligent Systems**
 
-I design and study intelligent systems that make **coordinated decisions under uncertainty and network constraints**.
+I design and study intelligent systems that make coordinated decisions under uncertainty and network constraints.
 My research focuses on multi-agent coordination, distributed optimization, and trustworthy AI for large-scale infrastructures, with particular attention to reliability, transparency, and reproducibility.
 
 I combine experience in embedded systems, edge/IoT simulation, and ML-driven decision algorithms with DevOps tooling to build scalable, reproducible research environments.
@@ -11,7 +11,7 @@ I combine experience in embedded systems, edge/IoT simulation, and ML-driven dec
 
 ### 🧠 Research Interests
 
-* Multi-Agent Systems & **Network-Aware Coordination**
+* Multi-Agent Systems & Network-Aware Coordination
 * Distributed Optimization & Federated Learning
 * Edge Computing & IoT Simulation Architectures
 * Trustworthy, Interpretable, and Human-Centered AI
@@ -21,15 +21,15 @@ I combine experience in embedded systems, edge/IoT simulation, and ML-driven dec
 ### 🔬 Selected Research Projects
 
 **🛰 [NetworkAware-AgentPy](https://github.com/yomex96/NetworkAware-AgentPy)**
-Python framework for simulating **resilient multi-agent systems** under **latency, packet loss, and network topology constraints**.
+Python framework for simulating resilient multi-agent systems** under latency, packet loss, and network topology constraints.
 
 * **Focus:** Coordination robustness, emergent behavior, and network-aware policy evaluation.
-* **Impact:** Demonstrates ability to design **reproducible experiments** and analyze **realistic distributed systems**.
+* **Impact:** Demonstrates ability to design reproducible experiments** and analyze realistic distributed systems**.
 * **Visual Demo:**
   ![Network Topology Example](docs/network_topology.png)
 
 **🔗 ML-Driven IoT Edge Resource Allocation**
-Adaptive workload allocation using ML models to balance **latency and energy efficiency** in edge networks.
+Adaptive workload allocation using ML models to balance latency and energy efficiency in edge networks.
 
 * **Focus:** System-level modeling, performance trade-off analysis.
 * **Outcome:** Optimized edge resource scheduling under realistic network loads.
