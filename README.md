@@ -1,57 +1,55 @@
-### 👋 Hi, I'm Abayomi Robert Onawole  
-**Ph.D. Applicant at MIT IDSS** | **DevOps & Systems Engineer** | **Researcher in Autonomous Systems**
+## 👋 Hi, I'm Abayomi Robert Onawole
+Ph.D. Applicant in Autonomous & Distributed Intelligent Systems
 
-I’m passionate about designing intelligent, resilient, and trustworthy systems that bridge automation, optimization, and human oversight.  
-My research explores **multi-agent systems**, **distributed optimization**, and **AI-driven decision systems** for large-scale societal infrastructures.  
-With a strong background in **DevOps**, **cloud computing**, and **machine learning deployment**, I integrate engineering precision with data-driven insight to build scalable autonomous frameworks.
+I design and study intelligent systems that make coordinated decisions in uncertain, network-constrained environments. 
+My research focuses on **multi-agent coordination, distributed optimization, and trustworthy AI for large-scale 
+infrastructures**, especially where reliability and transparency are critical.
 
----
-
-### 🧠 Research & Technical Interests
-- Multi-Agent Systems & Network-Aware Autonomy  
-- Distributed Decision-Making & Optimization  
-- Edge Computing & IoT Simulation  
-- Trustworthy and Explainable AI  
-- Cloud & DevOps for Research Automation  
-- ML Model Deployment and MLOps  
+I combine experience in embedded systems, edge/IoT simulation, and ML-driven decision algorithms with 
+DevOps tooling to build **scalable, reproducible research environments**.
 
 ---
 
-### ⚙️ Current Projects
-- 🛰 **[NetworkAware-AgentPy](https://github.com/yomex96/NetworkAware-AgentPy)** — Python framework for simulating network-aware, resilient multi-agent systems under communication constraints.  
-- 🔗 **[ML-Driven IoT Simulation](https://github.com/yomex96/5G-Network-Slicing)** — Machine learning–driven edge computing models for adaptive resource allocation and latency optimization.  
-- ☁️ **DevOps-Autonomy-Lab** — Infrastructure automation experiments using Terraform, Docker, and AWS for deploying distributed simulation pipelines.  
+### 🧠 Research Interests
+- Multi-Agent Systems & Network-Aware Coordination
+- Distributed Optimization & Federated Learning
+- Edge Computing & IoT Simulation Architectures
+- Trustworthy, Interpretable, and Human-Centered AI
 
 ---
 
-### 🧩 Skills & Tools
-**Programming:** Python, MATLAB, C/C++, Bash  
-**DevOps & Cloud:** AWS (Certified Solutions Architect), Azure (System Administration), Terraform, Docker, Ansible, CI/CD, Kubernetes  
-**MLOps & Model Deployment:** MLflow, SageMaker, Azure ML, FastAPI, Streamlit  
-**Simulation & Modeling:** NetworkX, SimPy, Scikit-learn, TensorFlow  
-**Data & Visualization:** Pandas, Matplotlib, Plotly, SQL  
-**Soft Skills:** Research writing, leadership, teamwork, technical mentorship  
+### 🔬 Selected Research Projects
+**🛰 NetworkAware-AgentPy**  
+Python framework for simulating **resilient multi-agent systems** under latency, packet loss, and topology constraints.  
+*Focus:* coordination robustness, emergent behavior, network-aware policy evaluation.
+
+**🔗 ML-Driven IoT Edge Resource Allocation**  
+Adaptive workload allocation using ML models to balance latency and energy efficiency in edge networks.  
+*Focus:* system-level modeling, performance trade-off analysis.
+
+**☁️ DevOps-Autonomy-Lab**  
+Reproducible research pipelines using Terraform, Docker, and AWS for large-scale simulation experiments.  
+*Purpose:* scalable experimentation and fair model comparison.
 
 ---
 
-### 🏆 Education & Leadership
-🎓 **B.Eng. Electrical & Electronics Engineering** — Federal University of Technology, Akure (FUTA)  
-🧩 **President**, National Institute of Electrical & Electronics Engineering Students (NIEEES), FUTA  
-🧠 **Academic Excellence Chair**, NSBE FUTA Chapter  
-📈 **GRE:** 164 Quantitative | 161 Verbal | 325 Total  
-🎯 **Research Focus:** Multi-Agent Autonomy • Distributed Optimization • Resilient Infrastructure Systems  
+### 🛠 Skills & Tools
+**Programming:** Python, MATLAB, C/C++  
+**Distributed / Simulation:** NS-3, NetworkX, SimPy  
+**Machine Learning:** PyTorch, Scikit-Learn  
+**DevOps for Research:** Docker, Terraform, Kubernetes, AWS, CI/CD  
+**Other:** Pandas, Plotly, SQL
 
 ---
 
-### ☁️ Cloud & Professional Experience
-🌍 **AWS Certified Solutions Architect – Associate**  
-🖥️ **Azure System Administration Experience** — Network, Identity, and Automation Management  
-🤖 **ML Model Deployment Experience** — End-to-end model serving with AWS SageMaker and Azure ML pipelines  
-💼 **Work GitHub (Professional Projects):** [@yomex96](https://github.com/yomex96)  
+### 🎓 Education & Leadership
+- B.Eng. Electrical & Electronics Engineering — FUTA
+- President — National Institute of Electrical & Electronics Engineering Students (NIEEES)
+- GRE: 164 Quant | 161 Verbal
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Let's Contact
 📫 Email: [abayomirobertonawole@gmail.com](mailto:abayomirobertonawole@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/abayomi-robert-onawole/)  
 💻 [GitHub (Research Profile)](https://github.com/yomex96/yomex96)  
