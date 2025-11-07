@@ -43,9 +43,13 @@ Adaptive workload allocation using ML models to balance latency and energy effic
 ### 🛠 Skills & Tools
 
 **Programming:** Python, MATLAB, C/C++
+
 **Distributed / Simulation:** NS-3, NetworkX, SimPy
+
 **Machine Learning:** PyTorch, Scikit-Learn
+
 **DevOps for Research:** Docker, Terraform, Kubernetes, AWS, CI/CD
+
 **Other:** Pandas, Plotly, SQL
 
 ---
