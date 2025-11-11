@@ -21,7 +21,7 @@ I combine experience in embedded systems, edge/IoT simulation, and ML-driven dec
 ### 🔬 Selected Research Projects
 
 **🛰 [NetworkAware-AgentPy](https://github.com/yomex96/NetworkAware-AgentPy)**
-Python framework for simulating resilient multi-agent systems** under latency, packet loss, and network topology constraints.
+Python framework for simulating resilient multi-agent systems under latency, packet loss, and network topology constraints.
 
 * **Focus:** Coordination robustness, emergent behavior, and network-aware policy evaluation.
 * **Impact:** Demonstrates ability to design reproducible experiments** and analyze realistic distributed systems**.
@@ -34,7 +34,7 @@ Adaptive workload allocation using ML models to balance latency and energy effic
 * **Focus:** System-level modeling, performance trade-off analysis.
 * **Outcome:** Optimized edge resource scheduling under realistic network loads.
 
-**☁️ [DevOps-Autonomy-Lab](https://github.com/yomex96/NetworkAware-AgentPy)** Reproducible research pipelines using **Terraform, Docker, and AWS** for large-scale simulations for MLOP Project.
+**☁️ [DevOps-Autonomy-Lab](https://github.com/yomex96/NetworkAware-AgentPy)** Reproducible research pipelines using Terraform, Docker, and AWS for large-scale simulations for MLOP Project.
 
 * **Purpose:** Enables scalable experimentation and fair model comparison.
 
